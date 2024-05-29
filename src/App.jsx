@@ -78,7 +78,7 @@ export default function App() {
 
 
   return (
-    <div className="container-fluid bg-warning">
+    <div className="container bg-warning">
       <h1> Bagtotal = {total}</h1> 
 
       <div className="row">
